@@ -1,0 +1,21 @@
+{
+	"students": [{
+			"name": "Соня",
+			"group": "ИБМ7-33",
+			"average_mark": 4.8,
+			"image":"/static/sonya.png"
+		},
+		{
+			"name": "Лиза",
+			"group": "ИБМ7-33",
+			"average_mark": 4.4,
+			"image":"/static/liza.png"
+		},
+		{
+			"name": "Саша",
+			"group": "ИБМ7-33",
+			"average_mark": 4.2,
+			"image":"/static/sasha.png"
+		}
+	]
+}
